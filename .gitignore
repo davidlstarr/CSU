@@ -1,0 +1,58 @@
+composer.phar
+/vendor/
+
+#branch swap files
+/domain.php
+_php/mysql.php
+/.htaccess*
+/template
+
+#so you can generate your own css, using compass, fonts using gulp and js using gulp
+/_test/
+#so you can generate your own build, using gulp
+/build/
+/_vendor/
+
+#mac files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# SCSS Cache
+*.scssc
+.sass-cache/
+
+
+## Directory-based project format:
+.idea/
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+/node_modules/
+jspm_packages
+/bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+/Templates/
+
+# Generated Favicons
+/favicon*
+/apple-*
+/mstile-*
+/safari-pinned-tab.svg
+/manifest.json
+/browserconfig.xml
+/android-*
+
+# generated from templates
+

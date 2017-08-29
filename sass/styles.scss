@@ -1,0 +1,54 @@
+/***********************************************************************
+**														              **
+**         POLO Html5 Template		   								  **
+**         Author: INSPIRO MEDIA								      **
+**		   : http://www.inspiro-media.com						  **
+**														              **
+************************************************************************/
+
+
+/* Plugins */
+@import "base/plugins";
+
+
+/*  Core */
+@import "components/variables";
+@import "components/fonts";
+
+@import "components/layout";
+@import "components/typography";
+
+/*  Content & Layout */
+@import "components/topbar";
+@import "components/header";
+@import "components/sliders";
+@import "components/page-title";
+@import "components/content";
+@import "components/grid";
+@import "components/portfolio";
+@import "components/blog";
+@import "components/comments";
+@import "components/shop";
+@import "components/forum";
+@import "components/about";
+
+/*  Helpers */
+@import "components/helpers";
+
+/*  Shortcodes */
+@import "elements/elements";
+
+/*  Footer */
+@import "components/footer";
+
+/*  Widgets */
+@import "components/widgets";
+
+@import "components/preloaders";
+
+/*  Extras */
+@import "components/extras";
+
+@import "components/colors";
+
+@import "base/responsive";
