@@ -17,7 +17,7 @@
                 <span class="strong text-dark" data-animation="fadeInUp" data-animation-delay="700">Hello, We are</span>
                 <h2 class="text-dark text-large" data-animation="fadeIn" data-animation-delay="500">Cleaning Services Unlimited</h2>
                 <div data-animation="fadeInDown" data-animation-delay="900">
-                    <a class="btn btn-dark btn-slider">Get a Quote Today &nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i>
+                    <a class="btn btn-dark btn-slider" href="#contact">Get a Quote Today &nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i>
                     </a>
                 </div>
                 <!-- end: Captions -->

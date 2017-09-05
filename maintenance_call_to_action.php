@@ -14,6 +14,6 @@
         </div>
         <p class="lead" style="font-size: 31px;">GET A QUOTE TODAY!</p>
 
-        <a href="#" class="btn btn-slider" style="border-radius: 0;font-weight: 400;padding: 11px 18px 12px 25px;font-size: 20px;"><span>Click Here <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+        <a href="#contact" class="btn btn-slider" style="border-radius: 0;font-weight: 400;padding: 11px 18px 12px 25px;font-size: 20px;"><span>Click Here <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
     </div>
 </section>
