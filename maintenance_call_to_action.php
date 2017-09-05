@@ -7,13 +7,13 @@
  */
 ?>
 
-<section class="text-center text-light p-t-150 p-b-150 background-overlay-dark" data-parallax-image="_img/call_to_action_bg.jpg" id="services_call_to_action"><div class="parallax-container scrolly-invisible" data-velocity="-.090" style="background: url(&quot;_img/call_to_action_bg.jpg&quot;) -55.53px;"></div>
+<section class="text-center text-light p-t-150 p-b-150 background-overlay-dark" data-parallax-image="_img/call_to_action_bg_2.jpg" id="services_call_to_action"><div class="parallax-container scrolly-invisible" data-velocity="-.090" style="background: url(&quot;_img/call_to_action_bg_2.jpg&quot;);"></div>
     <div class="container">
         <div class="heading heading-center m-b-40">
-            <h2>PROFESSIONAL MAINTENANCE SERVICES</h2>
+            <h2>BRILLIANT CLEANING SERVICES!</h2>
         </div>
-        <p class="lead">We offer a range of services for both businesses and individuals companies, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor.</p>
+        <p class="lead" style="font-size: 31px;">GET A QUOTE TODAY!</p>
 
-        <a href="page-services.php" class="btn"><span>SEE MORE SERVICES <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+        <a href="#" class="btn btn-slider" style="border-radius: 0;font-weight: 400;padding: 11px 18px 12px 25px;font-size: 20px;"><span>Click Here <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
     </div>
 </section>

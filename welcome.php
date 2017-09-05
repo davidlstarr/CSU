@@ -7,46 +7,30 @@
  */
 ?>
 <!-- WHAT WE DO -->
-<section id="about">
+<section class="p-b-60" id="about">
     <div class="container">
-        <div class="heading text-left">
-            <div class="heading content-headline">
-                <h2>ABOUT US</h2>
-            </div>
+        <div class="heading heading-center m-b-40">
+            <h2>ABOUT OUR COMPANY</h2>
+            <span class="lead">Consectetur adipiscing elit. amam ipsum dolor sit amet.</span>
         </div>
         <div class="row">
-            <div id="portfolio" class="col-md-6 grid-layout portfolio-1-columns" data-margin="0">
+            <div class="col-md-12">
+                <div class="m-b-40">
 
-                <!-- portfolio item -->
-                <div class="portfolio-item no-overlay pf-illustrations pf-media pf-icons pf-Media pf-graphics">
-                    <div class="portfolio-item-wrap">
-                        <div class="portfolio-slider">
-                            <div class="carousel dots-inside dots-dark arrows-dark" data-items="1" data-loop="true" data-autoplay="true" data-animate-in="fadeIn" data-animate-out="fadeOut" data-autoplay-timeout="1500">
-                                <a href="#"><img style="height:400px" src="_img/portfolio/X-two-cleaners.jpg" alt=""></a>
-                                <a href="#"><img style="height: 400px" src="_img/portfolio/IMG_0946.JPG" alt=""></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- end: portfolio item -->
-            </div>
-            <div class="col-md-6">
-                <h3>Company Profile</h3>
-                <div class="heading heading text-left" style="margin-bottom: 10px;">
-                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
-company that provides quality building services to commercial and industrial
-businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
-most professional service in the industry </span>
-                </div>
-                <h3>Mission Statement</h3>
-                <div class="heading heading text-left">
-                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
-company that provides quality building services to commercial and industrial
-businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
-most professional service in the industry </span>
+
+                            <span class="lead">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Mauris suscipit mollis massa, a volutpat risus tempus non. Cras molestie massa ac lorem pulvinar,
+vehicula congue velit pretium. Mauris eget convallis mauris, eu consequat purus. Ut condimentum
+rhoncus interdum. Nunc a purus quis enim auctor faucibus eu eu neque. Ut hendrerit nec orci eu viverra.
+Suspendisse vulputate tortor eget nisl consectetur, ac eleifend urna ultrices. Class aptent taciti sociosqu
+ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse in pellentesque ante.
+Sed quis nisi a lorem lobortis ornare. Vivamus ornare ullamcorper tellus nec vulputate. Nam dapibus nisi
+nec vestibulum condimentum. Aliquam sit amet enim nec ipsum bibendum placerat sit amet sit amet velit.
+Vestibulum eu ligula congue, pellentesque metus sed, tincidunt sem
+				</span>
                 </div>
             </div>
-
+        </div>
     </div>
 </section>
 <!-- END WHAT WE DO -->

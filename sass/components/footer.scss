@@ -50,6 +50,7 @@ footer.background-grey .copyright-content {
     text-align: left;
     text-transform: uppercase;
     color: white;
+    font-weight: 700;
 }
 #footer-outer {
     .widget h4,
@@ -93,7 +94,7 @@ footer.background-grey .copyright-content {
             color: #898989 !important;
         }
         .copyright-content {
-            background-color: $blue;
+            background-color: #0f497d;
             border-top: 1px solid #e5e5e5;
             .to-top {
                 background-color: #fff;

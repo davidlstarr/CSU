@@ -28,7 +28,7 @@ $page_id = 'home-page';
         <!-- end: PORTFOLIO -->
 
         <!-- SERVICES -->
-        <?php //include(__DIR__ . '/services.php'); ?>
+        <?php include(__DIR__ . '/services.php'); ?>
         <!-- end: SERVICES -->
 
         <!-- CALL TO ACTION -->
@@ -42,6 +42,10 @@ $page_id = 'home-page';
         <!-- CLIENTS -->
         <?php include(__DIR__ . '/clients.php'); ?>
         <!-- end: CLIENTS -->
+
+        <!-- CONTACT -->
+        <?php include(__DIR__ . '/contact.php'); ?>
+        <!-- end: CONTACT -->
 
         <!-- Footer -->
         <?php include(__DIR__ . '/footer.php'); ?>

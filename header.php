@@ -11,7 +11,7 @@
         <div class="container">
             <!--Logo-->
             <div id="logo">
-                <a href="index.php" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/mm_logo2.png" alt="Master Maintenance Logo"> </a>
+                <a href="index.php" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/csu_logo.svg" alt="Master Maintenance Logo"> </a>
             </div>
             <!--End: Logo-->
 

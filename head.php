@@ -16,7 +16,7 @@ require_once(__DIR__ . '/cache_buster.php');
                         Master Maintenance is a professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment.
                         The most vital component of its company is the people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.">
 <!-- Document title -->
-<title>Master Maintenance</title>
+<title>Cleaning Services Unlimited</title>
 <!-- Stylesheets & Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
 <!--<link href="css/plugins.css" rel="stylesheet">

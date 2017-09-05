@@ -129,10 +129,11 @@
         }
         h2 {
             font-weight: 700;
-            font-size: 35px !important;
+            font-size: 55px !important;
             line-height: 43px;
             margin-bottom: 2px;
             color: white !important;
+            text-transform: uppercase;
             span{
                 color: $green !important;
             }
@@ -144,23 +145,23 @@
             color: $white;
         }
         .strong {
-            color: $white;
+            color: $white !important;
             display: block;
             font-family: "Open Sans";
-            font-size: 12px !important;
+            font-size: 36px !important;
             font-weight: 700;
-            letter-spacing: 2px;
-            line-height: 12px;
-            margin-bottom: 20px;
+            //letter-spacing: 2px;
+            line-height: 24px;
+            margin-bottom: -2px;
             position: relative;
             text-transform: uppercase;
             &::after {
-                border-top: 3px solid #fff;
+                border-top: 4px solid #fff !important;
                 content: "";
                 display: block;
                 margin-bottom: 0;
                 margin-top: 8px;
-                width: 26px;
+                width: 53px;
             }
         }
         >p {

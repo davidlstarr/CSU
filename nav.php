@@ -6,16 +6,17 @@
  * Time: 7:13 PM
  */
 ?>
-<div id="mainMenu" class="light">
+<div id="mainMenu" class="light menu-one-page">
     <div class="container">
         <nav>
             <ul>
                 <!--<li><a href="index.html">Home</a></li>-->
-                <li><a href="about.php">About Us</a></li>
-                <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="page-services.php">Services</a></li>
-                <li><a href="team.php">Our Team</a></li>
-                <li><a href="contact.php">Contact Us</a></li>
+                <li><a href="#about">About Us</a></li>
+               <!-- <li><a href="gallery.php">Gallery</a></li>-->
+                <li><a href="#services">Services</a></li>
+             <!--   <li><a href="team.php">Our Team</a></li>-->
+                <li><a href="#clients">Our Clients</a></li>
+                <li><a href="#contact">Contact Us</a></li>
                 <?php/*<li class="dropdown"> <a href="#">Features</a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-submenu"><a href="#"><i class="fa fa-heart"></i>Headers</a>
