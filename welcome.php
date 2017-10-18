@@ -11,23 +11,22 @@
     <div class="container">
         <div class="heading heading-center m-b-40">
             <h2>ABOUT OUR COMPANY</h2>
-            <span class="lead">Consectetur adipiscing elit. amam ipsum dolor sit amet.</span>
+            <span class="lead">Delivering Unparalled Cleaning Services for any Industry.  </span>
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="m-b-40">
 
 
-                            <span class="lead">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Mauris suscipit mollis massa, a volutpat risus tempus non. Cras molestie massa ac lorem pulvinar,
-vehicula congue velit pretium. Mauris eget convallis mauris, eu consequat purus. Ut condimentum
-rhoncus interdum. Nunc a purus quis enim auctor faucibus eu eu neque. Ut hendrerit nec orci eu viverra.
-Suspendisse vulputate tortor eget nisl consectetur, ac eleifend urna ultrices. Class aptent taciti sociosqu
-ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse in pellentesque ante.
-Sed quis nisi a lorem lobortis ornare. Vivamus ornare ullamcorper tellus nec vulputate. Nam dapibus nisi
-nec vestibulum condimentum. Aliquam sit amet enim nec ipsum bibendum placerat sit amet sit amet velit.
-Vestibulum eu ligula congue, pellentesque metus sed, tincidunt sem
-				</span>
+                            <span class="lead">Cleaning Services Unlimited is the most well-known, trusted name in cleaning services. If you're looking for a detailed cleaning service,
+                                you've come to the right place!  We put together packages based on your specific cleaning preferences, schedule and budget. Cleaning Services Unlimited
+                                provides the best industrial cleaning and janitorial services to large or small facilities.</span><br><br>
+                    <span class="lead">Cleaning Services Unlimited provides:</span>
+                    <ul class="lead">
+                        <li>A clean, sanitized industrial/janitorial cleaning service </li>
+                        <li>Experienced support to take care of whatever cleaning challenge</li>
+                        <li>24/7 operations support and inspections</li>
+                    </ul>
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
                 <!--<li><a href="index.html">Home</a></li>-->
                 <li><a href="#about">About Us</a></li>
                <!-- <li><a href="gallery.php">Gallery</a></li>-->
-                <li><a href="#services">Services</a></li>
+                <li><a href="#services">Cleaning Services</a></li>
              <!--   <li><a href="team.php">Our Team</a></li>-->
                 <li><a href="#clients">Our Clients</a></li>
                 <li><a href="#contact">Contact Us</a></li>

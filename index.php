@@ -40,7 +40,7 @@ $page_id = 'home-page';
         <!-- end: TESTIMONIALS -->
 
         <!-- CLIENTS -->
-        <?php include(__DIR__ . '/clients.php'); ?>
+        <?php //include(__DIR__ . '/clients.php'); ?>
         <!-- end: CLIENTS -->
 
         <!-- CONTACT -->

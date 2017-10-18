@@ -9,37 +9,65 @@
 <section id="clients">
     <div class="container">
         <div class="heading heading-left m-b-80">
-            <h2>OUR CLIENTS</h2>
+            <h2>TESTIMONIALS FROM OUR CLIENTS</h2>
             <span class="lead">Consectetur adipiscing elit. amam ipsum dolor sit amet.</span>
         </div>
         <!-- Testimonials -->
-        <div class="carousel arrows-visibile testimonial testimonial-single testimonial-blockquote" data-items="1" data-autoplay="true" data-animate-in="fadeIn" data-animate-out="fadeOut" data-loop="true">
-
-            <!-- Testimonials item -->
-            <div class="testimonial-item">
+        <div class="grid-layout grid-3-columns testimonial grid-loaded" data-="" data-item="grid-item" style="margin: 0px -20px -20px 0px; position: relative; height: 748px;">
+            <div class="grid-item" style="padding: 0px 20px 20px 0px; position: absolute; left: 0px; top: 0px;">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
-                <span>Alan Monre</span>
-                <span>CEO, Square Software</span>
+                    <span>Alan Monre</span>
+                    <span>CEO, Square Software.</span>
+                </div>
+                <!-- end: Testimonials item-->
             </div>
-            <!-- end: Testimonials item-->
-
-            <!-- Testimonials item -->
-            <div class="testimonial-item">
-                <p>Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-                <span>David Starr</span>
-                <span>CEO, Everything</span>
+            <div class="grid-item">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+                    <span>Resa Smith</span>
+                    <span>Developer @Apple.inc</span>
+                </div>
+                <!-- end: Testimonials item-->
             </div>
-            <!-- end: Testimonials item-->
-
-            <!-- Testimonials item -->
-            <div class="testimonial-item">
-                <p>Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit.
-                </p>
-                <span>Alexandra Starr</span>
-                <span>CEO, Almost Everything</span>
+            <div class="grid-item">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+                    <span>Alan Monre</span>
+                    <span>CEO, Square Software.</span>
+                </div>
+                <!-- end: Testimonials item-->
             </div>
-            <!-- end: Testimonials item-->
-
+            <div class="grid-item">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+                    <span>Resa Smith</span>
+                    <span>Developer @Apple.inc</span>
+                </div>
+                <!-- end: Testimonials item-->
+            </div>
+            <div class="grid-item">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+                    <span>Lulla Smith</span>
+                    <span>CEO @Verso.</span>
+                </div>
+                <!-- end: Testimonials item-->
+            </div>
+            <div class="grid-item">
+                <!-- Testimonials item -->
+                <div class="testimonial-item">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+                    <span>Ariol Perry</span>
+                    <span>Creative Designer.</span>
+                </div>
+                <!-- end: Testimonials item-->
+            </div>
         </div>
         <!-- end: Testimonials -->
     </div>
