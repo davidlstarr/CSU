@@ -34,7 +34,7 @@
                 <div class="icon-box medium fancy">
                     <div class="icon">  <a href="#"><i class="fa fa-building-o" aria-hidden="true"></i></a>  </div>
                     <h4>Dental Facilities Cleaning</h4>
-                    <p>Reputation is critical, it is very important to use a cleaning service that understands the needs of dental practices.</p>
+                    <p>Reputation is imperative, it is very important to use a cleaning service that understands dental practices.</p>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@
                 <div class="icon-box medium fancy">
                     <div class="icon"> <a href="#"><i class="fa fa-hospital-o" aria-hidden="true"></i></a> </div>
                     <h4>Medical Facilities Cleaning</h4>
-                    <p>We specialize in medical cleaning services for hospitals, outpatient facilities, medical office buildings, surgery centers</p>
+                    <p>We know the ends and outs of medical cleaning services for outpatient facilities, hospitals, medical office buildings, surgery centers</p>
                 </div>
             </div>
             <div class="col-md-4">
