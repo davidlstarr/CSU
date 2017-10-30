@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="col-md-6">
-                    <form class="widget-contact-form" action="include/contact-form.php" role="form" method="post">
+                    <form class="widget-contact-form" action="contact/send_mail.php" role="form" method="post">
                         <div class="row">
                             <div class="form-group col-sm-6">
                                 <label for="name">Name</label>
@@ -42,10 +42,10 @@
                             <textarea type="text" name="widget-contact-form-message" rows="5" class="form-control required" placeholder="Enter your Message"></textarea>
                         </div>
 
-                        <div class="form-group">
+                        <!--<div class="form-group">
                             <script src='https://www.google.com/recaptcha/api.js'></script>
                             <div class="g-recaptcha" data-sitekey="6LddCxAUAAAAAKOg0-U6IprqOZ7vTfiMNSyQT2-M"></div>
-                        </div>
+                        </div>-->
                         <button class="btn btn-default" type="submit" id="form-submit"><i class="fa fa-paper-plane"></i>&nbsp;Send message</button>
                     </form>
 

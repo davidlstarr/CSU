@@ -36,7 +36,7 @@ $page_id = 'home-page';
         <!-- end: CALL TO ACTION -->
 
         <!-- TESTIMONIALS -->
-        <?php include(__DIR__ . '/testimonials.php'); ?>
+        <?php //include(__DIR__ . '/testimonials.php'); ?>
         <!-- end: TESTIMONIALS -->
 
         <!-- CLIENTS -->

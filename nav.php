@@ -15,7 +15,7 @@
                <!-- <li><a href="gallery.php">Gallery</a></li>-->
                 <li><a href="#services">Cleaning Services</a></li>
              <!--   <li><a href="team.php">Our Team</a></li>-->
-                <li><a href="#clients">Our Clients</a></li>
+              <!--  <li><a href="#clients">Our Clients</a></li>-->
                 <li><a href="#contact">Contact Us</a></li>
                 <?php/*<li class="dropdown"> <a href="#">Features</a>
                     <ul class="dropdown-menu">
