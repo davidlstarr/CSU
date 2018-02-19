@@ -18,7 +18,7 @@
                 <div class="m-b-40">
 
 
-                            <span class="lead">Cleaning Services Unlimited is the most well-known, trusted name in cleaning services. If you're looking for a detailed cleaning service,
+                            <span class="lead">Cleaning Services Unlimited is the most well-known, trusted name for cleaning services in Columbus, Ohio. If you're looking for a detailed cleaning service,
                                 you've come to the right place!  We put together packages based on your specific cleaning preferences, schedule and budget. Cleaning Services Unlimited
                                 provides the best industrial cleaning and janitorial services to large or small facilities.</span><br><br>
                     <span class="lead">Cleaning Services Unlimited provides:</span>

@@ -8,7 +8,7 @@ require_once('PHPMailer/PHPMailerAutoload.php');
 $mail = new PHPMailer();
 
 // Enter your email address. If you need multiple email recipes simply add a comma: email@domain.com, email2@domain.com
-$to = "csu4you@yahoo.com";
+$to = "csu4you@yahoo.com, davestarr9@gmail.com";
 
 
 // Form Fields

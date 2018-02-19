@@ -20,7 +20,6 @@
     "gulp-util": "^3.0.7",
     "gulp-css-url-adjuster": "^0.2.3",
     "gulp-imagemin": "^3.0.1"
-
   },
   "devDependencies": {
     "browser-sync": "^2.15.0",
