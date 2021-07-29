@@ -1,2 +1,2 @@
 # CSU
-Cleaning Services Unlimited test
+A Cleaning Services website using PHP and MySQL.
